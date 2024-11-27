@@ -40,9 +40,9 @@ The purpose of this analysis is to design, train, and optimize a deep learning m
 
 - **Model Performance:**  
   None of the attempts achieved the target accuracy of 75%.  
-  - **Attempt 1:** Accuracy = 72.78%, Loss = 0.5723  
-  - **Attempt 2:** Accuracy = 72.65%, Loss = 0.5744  
-  - **Attempt 3:** Accuracy = 72.80%, Loss = 0.6048  
+  - **Attempt 1:** Accuracy = 72.65%, Loss = 0.5698  
+  - **Attempt 2:** Accuracy = 72.84%, Loss = 0.5703  
+  - **Attempt 3:** Accuracy = 72.86%, Loss = 0.5747  
 
 - **Steps Taken to Improve Model Performance:**  
   - Adjusted the number of neurons and hidden layers.  
@@ -53,7 +53,7 @@ The purpose of this analysis is to design, train, and optimize a deep learning m
 ---
 
 ### **Summary**
-The deep learning model achieved a maximum accuracy of **72.80%**, which fell short of the target accuracy of 75%. Despite optimizing neurons, layers, and activation functions, the model performance plateaued. The primary limitation may lie in the nature of the dataset, where features lack sufficient predictive power for the classification task.
+The deep learning model achieved a maximum accuracy of **72.86%**, which fell short of the target accuracy of 75%. Despite optimizing neurons, layers, and activation functions, the model performance plateaued. The primary limitation may lie in the nature of the dataset, where features lack sufficient predictive power for the classification task.
 
 ### **Recommendation**
 To further improve performance, consider the following alternatives:
