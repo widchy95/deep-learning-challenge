@@ -1,3 +1,5 @@
+
+
 # Report: Neural Network Model for Alphabet Soup Charity Success Prediction
 
 ## **Overview of the Analysis**
@@ -63,3 +65,8 @@ To further improve performance, consider the following alternatives:
   Grid search or Bayesian optimization could fine-tune the architecture for better performance.
 
 A different model such as Gradient Boosting could outperform the neural network, as it handles structured data more efficiently and is less sensitive to scaling issues.
+
+## Prepared by
+**Widchy Joachim - Data Analyst**
+
+GitHub: [@widchy95](https://github.com/widchy95)
